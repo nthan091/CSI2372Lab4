@@ -1,0 +1,3 @@
+﻿  myfile2.cpp
+C:\Users\hayle\School\CSI2372\CSI2372Lab4\L4E2\L4E2\SetInt.h(130): warning C4715: 'SetInt::containsAux': not all control paths return a value
+  L4E2.vcxproj -> C:\Users\hayle\School\CSI2372\CSI2372Lab4\L4E2\Debug\L4E2.exe
